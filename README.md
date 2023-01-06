@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmanueldindu
 - 👀 I’m interested in full stack mern development withreact and node
-- 🌱 I’m currently learning react js
+- 🌱 I write react and nodeJs
 - 💞️ I’m looking to collaborate on start up projects
 - 📫 reach me on emmanuelnwobodoc04@gmail.com
 
