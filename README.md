@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @emmanueldindu
-- 👀 I’m interested in full stack mern development withreact and node
+- 👋 Hi, I’m @emmanuel dindu
+- 👀 i build mobile apps with react native
 - 🌱 I write react and nodeJs
-- 💞️ I’m looking to collaborate on start up projects
 - 📫 reach me on emmanuelnwobodoc04@gmail.com
 
 <!---
