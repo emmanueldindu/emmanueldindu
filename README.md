@@ -1,4 +1,4 @@
--- 👋 Hi, I’m @emmanuel dindu
+- 👋 Hi, I’m @emmanuel dindu
 -- 👀 i build mobile apps with react native
 - 🌱 I write react and nodeJs
 - 📫 reach me on emmanuelnwobodoc04@gmail.com
