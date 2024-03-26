@@ -4,7 +4,7 @@
   <p align='center'>Love working on Fintech Roles!!</p>
   <p align='center'> Check out my socials 👇</p>
 </p>
-<!-- todY -->
+<!-- todYwd -->
 <p align='center'>
 <a href="https://wa.me/2348100491864?text=Hello+odoi" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
