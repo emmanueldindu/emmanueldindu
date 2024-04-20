@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align='center'>Hi there!👋🏾 I'm Emmanuel⚡</h1> 
   <p align="center"> I am a Software Developer focused on Frontend (Javascript/React/Typescript/NextJs + TailwindCSS)</p>
-  <p align='center'>Love working on Fintech Roles</p>
+  <p align='center'>Love working on Fintech Roles.</p>
   <p align='center'> Check out my socials 👇</p>
 </p>
 <!-- todYwd -->
