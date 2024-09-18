@@ -28,7 +28,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=emmanueldindu&show_icons=true&theme=tokyonight&line_height=25">
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simondevz&show_icons=true&locale=en&layout=compact" alt="simondevz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanueldindu&show_icons=true&locale=en&layout=compact" alt="simondevz" /></p>
 
   <p align="center">
    <img src = "http://github-readme-streak-stats.herokuapp.com?user=emmanueldindu&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D">
