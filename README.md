@@ -24,6 +24,10 @@
   </a>&nbsp;&nbsp;
   
  <a href="https://wakatime.com/@11f29c58-da34-47f8-b4f4-320d060467f8"><img src="https://wakatime.com/badge/user/11f29c58-da34-47f8-b4f4-320d060467f8.svg" alt="Total time coded since Sep 20 2022" /></a>
+
+  <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueldindu&langs_count=6&layout=compact">
+  </p>
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=emmanueldindu&show_icons=true&theme=tokyonight&line_height=25">
   </p>
