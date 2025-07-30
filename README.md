@@ -30,11 +30,12 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=emmanueldindu&show_icons=true&theme=tokyonight&line_height=25">
   </p>
 
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanueldindu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
   <p align="center">
    <img src = "http://github-readme-streak-stats.herokuapp.com?user=emmanueldindu&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D">
 </p>
+<img src="https://raw.githubusercontent.com/emmanueldindu/emmanueldindu/output/snake.svg" alt="Snake animation" />
 </p>
 
 <!---
